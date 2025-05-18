@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-move_semantics1
+quiz2
 
 intro1
 intro2
@@ -26,3 +26,24 @@ primitive_types5
 primitive_types6
 vecs1
 vecs2
+move_semantics1
+move_semantics2
+move_semantics3
+move_semantics4
+move_semantics5
+structs1
+structs2
+structs3
+enums1
+enums2
+enums3
+strings1
+strings2
+strings3
+strings4
+modules1
+modules2
+modules3
+hashmaps1
+hashmaps2
+hashmaps3
